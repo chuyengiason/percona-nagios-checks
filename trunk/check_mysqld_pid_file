@@ -2,7 +2,7 @@
 
 # ########################################################################
 # This program is part of percona-nagios-checks (http://code.google.com/p/percona-nagios-checks/)
-# License: BSD License (see README)
+# License: BSD License (see COPYING)
 # Authors:
 #  Baron Schwartz
 # ########################################################################
