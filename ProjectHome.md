@@ -1,0 +1,1 @@
+This is a set of Nagios checks created by Percona.  Most MySQL Nagios installations are checking far too many unreliable and noisy parameters.  Percona takes a different approach, monitoring only what needs to be monitored.  We use these for our [MySQL Support](http://www.percona.com/mysql-support/) customers.
